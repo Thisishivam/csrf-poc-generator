@@ -31,3 +31,19 @@ Clone the repository to your local machine:
 
 ```bash
 git clone https://github.com/Thisishivam/csrf-poc-generator.git
+cd csrf-poc-generator
+```
+
+  ## It asks user for the Target URL and the Values:
+  
+  ![Screenshot](https://github.com/Thisishivam/csrf-poc-generator/blob/main/Scan1.png)
+
+  ## You can directly host the csrf PoC if you choose the option 1 (OR The csrf PoC will be downloaded direcly in your current directory then you can host by yourself)
+  
+  ![Screenshot](https://github.com/Thisishivam/csrf-poc-generator/blob/main/scan2.png)
+  
+  ![Screenshot](https://github.com/Thisishivam/csrf-poc-generator/blob/main/host.png)
+
+  ## You can send the exploit on the target URL that you have provided
+
+  ![Screenshot](https://github.com/Thisishivam/csrf-poc-generator/blob/main/Scan3.png)
